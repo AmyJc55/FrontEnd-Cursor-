@@ -23,7 +23,7 @@ JavaScript: Lógica para controlar la reproducción de música y la interacción
 Instalación
 
 Clonar el repositorio:
-git clone https://github.com/tu-usuario/music-player-cursor.git
+git clone https://github.com/AmyJc55/FrontEnd-Cursor-.git
 Abrir el proyecto: Navega a la carpeta del proyecto y abre el archivo index.html en tu navegador.
 Uso
 
