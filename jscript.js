@@ -57,10 +57,4 @@ const links = [
 
 const gallery = document.querySelector('.gallery');
 
-links.forEach(link => {
-    const a = document.createElement('a');
-    a.href = link.url;
-    a.className = 'image-link';
-    a.innerHTML = `<img src="${link.src}" alt="Proyecto">`;
-    gallery.appendChild(a);
-});
+
